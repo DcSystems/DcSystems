@@ -10,10 +10,3 @@ Python é uma linguagem de programação versátil e poderosa que pode ser usada
   </a>
 </p>
 
-## Contato
-
-<p align="center">
-  <a href="www.linkedin.com/in/do-carmo-dev-897636230">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
